@@ -8,7 +8,10 @@ My name is Soheil, and I’m excited to share my journey with you. After years o
 I am currently completing the Data Analytics Bootcamp at Monash University, where I’ve gained invaluable hands-on experience working on projects that demonstrate my ability to analyse complex datasets, build machine learning models, and create impactful data visualisations. My previous role as a healthcare supervisor gave me firsthand insights into the challenges of healthcare systems, and it fuels my ambition to use data science to drive innovation and improve healthcare delivery.
 I’m excited to continue growing in this field and applying my skills to solve real-world problems. Thank you for stopping by my GitHub page, and I look forward to sharing my journey with you!
 
-## 📚 What I'm Working On
+🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
+🌱 I’m currently learning more about Machine Learning.
+📫 How to reach me: You can email me at soheil.dabooyeh29@gmail.com
+😄 Pronouns: He/Him.
 - Building machine learning models to solve healthcare challenges.
 - Improving my skills in ETL processes and cloud platforms like Azure.
 
