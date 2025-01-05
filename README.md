@@ -4,8 +4,8 @@
 
 👋 Hello and welcome to my GitHub profile!
 
-My name is Soheil, and I’m excited to share my journey with you. After years of working in healthcare operations and administration, I discovered my true passion in the field of data analytics and data science. Over the past year, I have been fully immersed in this dynamic field, developing expertise in tools and techniques such as Python, SQL, and Machine Learning.
-I am currently completing the Data Analytics Bootcamp at Monash University, where I’ve gained invaluable hands-on experience working on projects that demonstrate my ability to analyse complex datasets, build machine learning models, and create impactful data visualisations. My previous role as a healthcare supervisor gave me firsthand insights into the challenges of healthcare systems, and it fuels my ambition to use data science to drive innovation and improve healthcare delivery.
+My name is Soheil, and I’m excited to share my journey with you. After years of working in healthcare operations and administration, I discovered my true passion in Data Analytics and Data Science. Over the past year, I have been fully immersed in this dynamic field, developing expertise in tools and techniques such as Python, SQL, and Machine Learning.
+I am completing the Data Analytics Bootcamp at Monash University, where I’ve gained invaluable hands-on experience working on projects demonstrating my ability to analyse complex datasets, build machine learning models, and create impactful data visualisations.
 I’m excited to continue growing in this field and applying my skills to solve real-world problems. Thank you for stopping by my GitHub page, and I look forward to sharing my journey with you!
 
 - 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
