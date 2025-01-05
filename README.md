@@ -1,4 +1,4 @@
-![Soheil Dabooyeh Banner](https://raw.githubusercontent.com/soheilpalermo/Soheil-Dabooyeh/refs/heads/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png)
+![Soheil Dabooyeh Banner](https://raw.githubusercontent.com/soheilpalermo/soheilpalermo/refs/heads/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover%20(1).png)
 
 # Soheil Dabooyeh
 
